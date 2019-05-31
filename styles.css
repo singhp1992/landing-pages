@@ -4,3 +4,13 @@
     margin-top: 10em;
     font-family: 'Playfair Display', serif;
 }
+
+.landing-pages {
+    width: 50%;
+    margin: 5em auto;
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+}
