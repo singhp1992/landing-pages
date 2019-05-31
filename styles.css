@@ -1,6 +1,10 @@
+body {
+    background-color: grey;
+    color: white;
+}
+
 .intro {
     text-align: center;
-    color: blue;
     margin-top: 10em;
     font-family: 'Playfair Display', serif;
 }
