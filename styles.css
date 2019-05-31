@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: black;       
     color: white;
 }
 
@@ -12,7 +12,6 @@ body {
 .landing-pages {
     width: 50%;
     margin: 5em auto;
-    color: blue;
 }
 
 a {
