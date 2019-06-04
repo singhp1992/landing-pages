@@ -9,6 +9,11 @@
   justify-content: center;
 }
 
+.foot {
+  flex-shrink: 0;
+  color: black;
+}
+
 
 /* Media queries */
 
