@@ -2,6 +2,13 @@
   flex: 1 0 auto;
 }
 
+.main-header {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+}
+
 
 /* Media queries */
 
