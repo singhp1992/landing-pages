@@ -1,8 +1,9 @@
 # Welcome to my portfolio of landing pages
 
-This is my ongoing project where I add my favorite landing pages (which I have designed) 
+This is an ongoing project where I add my favorite landing pages (all work designed by me :blush:) 
 
-To view, 
+## To view: 
 
-1. Clone Repo 
-2. 
+ 1. clone this repo
+ 2. `cd` into `/landing-pages`
+ 3. run `open index.html` on terminal
