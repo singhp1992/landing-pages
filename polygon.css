@@ -1,0 +1,104 @@
+body {
+    font-family: 'Poiret One', sans-serif;
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background: url('images/polygon.jpg');
+    background-size: cover;
+    color: white;
+  }
+
+.content {
+  flex: 1 0 auto;
+}
+
+.main-header {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+}
+
+a:link {
+  text-decoration-line: none;
+}
+
+a {
+  color: white;
+}
+
+li {
+  list-style: none;
+}
+
+/* Footer */
+
+html, body {
+  height: 100%
+}
+.content {
+  flex: 1 0 auto;
+}
+
+.foot {
+  flex-shrink: 0;
+  color: black;
+}
+
+
+/* Media queries */
+
+@media (min-width: 769px){
+  .main-header,
+  .nav {
+    display: flex;
+  }
+
+  .main-header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+}
+
+@media (min-width: 1025px) {
+        
+    
+/* Landing Page */
+
+  .landing-header {
+    position: absolute;
+    left: 298px;
+    top: 185px;
+    transform: rotate(5deg);
+  }
+
+  .landing-home {
+    position: absolute;
+    left: 580px;
+    top: 115px;
+    transform: rotate(26deg);
+  }
+
+    .landing-products {
+    position: absolute;
+    left: 565px;
+    top: 195px;
+    transform: rotate(-35deg);
+  }
+
+  .landing-about {
+    position: absolute;
+    left: 575px;
+    top: 285px;
+    transform: rotate(40deg);
+  }
+
+  .landing-contact {
+    position: absolute;
+    left: 575px;
+    top: 375px;
+    transform: rotate(-3deg);
+  }
+}
