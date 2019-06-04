@@ -20,6 +20,15 @@ body {
   justify-content: center;
 }
 
+/* Footer */
+
+html, body {
+  height: 100%
+}
+.content {
+  flex: 1 0 auto;
+}
+
 .foot {
   flex-shrink: 0;
   color: black;
