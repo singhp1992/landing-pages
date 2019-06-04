@@ -24,6 +24,10 @@ a:link {
   text-decoration-line: none;
 }
 
+a {
+    color: white;
+}
+
 /* Footer */
 
 html, body {
