@@ -25,7 +25,11 @@ a:link {
 }
 
 a {
-    color: white;
+  color: white;
+}
+
+li {
+  list-style: none;
 }
 
 /* Footer */
