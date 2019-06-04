@@ -20,6 +20,10 @@ body {
   justify-content: center;
 }
 
+a:link {
+  text-decoration-line: none;
+}
+
 /* Footer */
 
 html, body {
