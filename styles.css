@@ -16,6 +16,10 @@ body {
     text-align: center;
 }
 
+.card:hover {
+    
+}
+
 a {
     text-decoration: none;
     margin: 1em 2em;
