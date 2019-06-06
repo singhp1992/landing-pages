@@ -1,27 +1,26 @@
 body {
     background-color: black;       
     color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16pt;
 }
 
 .intro {
     text-align: center;
     margin-top: 5em;
-    font-family: 'Playfair Display', serif;
-    font-size: 16pt;
 }
 
-.landing-pages {
-    width: 50%;
+.card {
     margin: 5em auto;
     text-transform: uppercase;
-    font-size: 14pt;
+    text-align: center;
 }
 
-a {
-    text-decoration: none;
-    margin: 1em 2em;
+.card:hover {
+    transform: scale(1.1);
+    transition: all .5s;
 }
 
-a:visited {
-  color: goldenrod;
+.card-title {
+    color: black;
 }
