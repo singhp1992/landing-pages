@@ -2,6 +2,8 @@
 
 This is an ongoing project where I add my favorite landing pages (all work designed by me :blush:) 
 
+CSS: Bootstrap
+
 ## To view: 
 
  1. clone this repo
