@@ -19,6 +19,7 @@ body {
 
 a {
     text-decoration: none;
+    margin: 1em 2em;
 }
 
 a:visited {
