@@ -17,16 +17,7 @@ body {
 }
 
 .card:hover {
-    
-}
 
-a {
-    text-decoration: none;
-    margin: 1em 2em;
-}
-
-a:visited {
-  color: goldenrod;
 }
 
 .card-title {
