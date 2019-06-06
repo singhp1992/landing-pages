@@ -10,11 +10,12 @@ body {
     margin-top: 5em;
 }
 
-.landing-pages {
+.card {
     width: 50%;
     margin: 5em auto;
     text-transform: uppercase;
     font-size: 14pt;
+    text-align: center;
 }
 
 a {
