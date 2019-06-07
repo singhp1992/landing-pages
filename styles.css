@@ -6,7 +6,7 @@ body {
 }
 
 .card {
-    margin: 5em auto;
+    margin: 1em 10em;
     text-transform: uppercase;
     text-align: center;
     transition: all .5s;
