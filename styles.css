@@ -32,7 +32,8 @@ body {
   overflow-x: hidden;
   padding-top: 20px;
   color: white;
-  font-size: 20pt;
+  font-size: 30pt;
   writing-mode: vertical-rl;
   text-orientation: upright;
+  box-shadow: 10px 10px;
 }
