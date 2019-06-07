@@ -33,7 +33,7 @@ body {
   padding-top: 20px;
   color: white;
   font-size: 30pt;
-  writing-mode: vertical-rl;
+  writing-mode: vertical-lr;
   text-orientation: upright;
   box-shadow: 10px 10px;
 }
