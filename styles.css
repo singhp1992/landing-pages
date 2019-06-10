@@ -31,6 +31,10 @@ body {
   margin-left: -100px;
 }
 
+.card-img-top {
+    border-radius: 20px;
+}
+
 .sidenav {
   height: 100%;
   width: 160px;
