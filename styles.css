@@ -10,6 +10,7 @@ body {
     text-transform: uppercase;
     text-align: center;
     transition: all .5s;
+    border-radius: 20px;
 }
 
 .card:hover {
@@ -30,6 +31,11 @@ body {
   margin-left: -100px;
 }
 
+.card-img-top {
+    border-radius: 20px;
+    box-shadow: -10px -10px 10px 0px#a5a5a5
+}
+
 .sidenav {
   height: 100%;
   width: 160px;
@@ -37,9 +43,9 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
+  padding-left: 20px;
   color: white;
   font-size: 30pt;
   writing-mode: vertical-lr;
