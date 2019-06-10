@@ -33,6 +33,7 @@ body {
 
 .card-img-top {
     border-radius: 20px;
+    box-shadow: -10px -10px 10px 0px#a5a5a5
 }
 
 .sidenav {
