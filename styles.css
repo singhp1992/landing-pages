@@ -21,7 +21,11 @@ body {
     color: black;
 }
 
-.sidenav {
+.center-nav {
+    color: white;
+}
+
+/* .sidenav {
   height: 100%;
   width: 160px;
   position: fixed;
@@ -36,4 +40,4 @@ body {
   writing-mode: vertical-lr;
   text-orientation: upright;
   box-shadow: 5px 10px;
-}
+} */
